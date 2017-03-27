@@ -1946,8 +1946,8 @@ aside.left-panel.collapsed span.nav-label {
     transform: translate3d(250px, 0, 0);
     -ms-transform: translate3d(250px, 0, 0);
     -webkit-transform: translate3d(250px, 0, 0);
-    -moz-transition: translate3d(250px, 0, 0);
-    -o-transition: translate3d(250px, 0, 0);
+    -moz-transform: translate3d(250px, 0, 0);
+    -o-transform: translate3d(250px, 0, 0);
   }
 
   aside.left-panel {
