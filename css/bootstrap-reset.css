@@ -301,13 +301,13 @@ ul, ol {
 /*text input*/
 
 .form-control {
-    background-color: #fafafa;
+    background-color: rgba(0, 0, 0, 0.05);
     color: rgba(0, 0, 0, 0.6);
     font-size: 14px;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     border-radius: 2px;
-    border: 1px solid #eee;
+    border: 1px solid rgba(153, 153, 153, 0.35);
     box-shadow: none;
 }
 
